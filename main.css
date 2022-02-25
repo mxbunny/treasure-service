@@ -24,7 +24,7 @@
 
 .title-section {
   background-image: url('./images/hero-banner.jpg'); 
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   height: 720px;
